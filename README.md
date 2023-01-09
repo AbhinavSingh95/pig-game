@@ -8,3 +8,5 @@ Each turn, a player repeatedly rolls a dice until either a 1 is rolled or the pl
 - If the player rolls any other number, it is added to their turn total and the player's turn continues.
 - If a player chooses to "hold", their turn total is added to their score, and it becomes the next player's turn.
   > The first player to score 100 or more points wins.
+
+<img src="https://github.com/AbhinavSingh95/pig-game/blob/main/images/Pig%20Game.gif"/>
