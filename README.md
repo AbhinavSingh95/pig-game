@@ -10,3 +10,5 @@ Each turn, a player repeatedly rolls a dice until either a 1 is rolled or the pl
   > The first player to score 100 or more points wins.
 
 <img src="https://github.com/AbhinavSingh95/pig-game/blob/main/images/Pig%20Game.gif"/>
+
+Click [here](https://inspiring-torrone-f2d4ba.netlify.app/) to play the game online(Not suitable for mobiles).
